@@ -217,9 +217,9 @@ Find below some screenshots/animations from wallaclone:
 
 ### Emails notifications
 
-![Advert change state notification](https://github.com/andiarist/public-assets/blob/main/wallaclone/emailNotifScreen.PNG)
+![Advert change state notification](https://github.com/andiarist/public-assets/blob/main/wallaclone/emailNotifScreen.png)
 
-![Advert change price notification](https://github.com/andiarist/public-assets/blob/main/wallaclone/changePriceScreen.PNG)
+![Advert change price notification](https://github.com/andiarist/public-assets/blob/main/wallaclone/changePriceScreen.png)
 
 ### User Panel and Chat
 
