@@ -111,13 +111,13 @@ To download the repository:
 Backend
 
 ```
-\downloads\git clone https://github.com/EduDev4/Wallaclone-Backend.git
+\downloads\git clone https://github.com/andiarist/Wallaclone-Backend.git
 ```
 
 Frontend
 
 ```
-\downloads\git clone https://github.com/EduDev4/Wallaclone-Frontend.git
+\downloads\git clone https://github.com/andiarist/Wallaclone-Frontend.git
 ```
 
 ### Install dependencies
@@ -203,24 +203,24 @@ Find below some screenshots/animations from wallaclone:
 
 ### Login screens/animations
 
-![Login Screen](https://github.com/chitenavi/public-assets/blob/main/screens/loginScreen.PNG)
+![Login Screen](https://github.com/andiarist/public-assets/blob/main/loginScreen.PNG)
 
-![Login action animation](https://github.com/chitenavi/public-assets/blob/main/gifs/Login.gif)
+![Login action animation](https://github.com/andiarist/public-assets/blob/main/Login.gif)
 
 ### Advert lists and pagination
 
-![Advert list pagination and favs](https://github.com/chitenavi/public-assets/blob/main/gifs/advertsList.gif)
+![Advert list pagination and favs](https://github.com/andiarist/public-assets/blob/main/advertsList.gif)
 
 ### Advert Detail
 
-![Advert detail and actions](https://github.com/chitenavi/public-assets/blob/main/gifs/advertDetail.gif)
+![Advert detail and actions](https://github.com/andiarist/public-assets/blob/main/advertDetail.gif)
 
 ### Emails notifications
 
-![Advert change state notification](https://github.com/chitenavi/public-assets/blob/main/screens/emailNotifScreen.PNG)
+![Advert change state notification](https://github.com/andiarist/public-assets/blob/main/emailNotifScreen.PNG)
 
-![Advert change price notification](https://github.com/chitenavi/public-assets/blob/main/screens/changePriceScreen.PNG)
+![Advert change price notification](https://github.com/andiarist/public-assets/blob/main/changePriceScreen.PNG)
 
 ### User Panel and Chat
 
-![User Panel and chat](https://github.com/chitenavi/public-assets/blob/main/gifs/UserPanelChats.gif)
+![User Panel and chat](https://github.com/andiarist/public-assets/blob/main/UserPanelChats.gif)
