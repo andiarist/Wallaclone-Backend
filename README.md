@@ -203,24 +203,24 @@ Find below some screenshots/animations from wallaclone:
 
 ### Login screens/animations
 
-![Login Screen](https://github.com/andiarist/public-assets/blob/main/loginScreen.PNG)
+![Login Screen](https://github.com/andiarist/public-assets/wallaclone/loginScreen.PNG)
 
-![Login action animation](https://github.com/andiarist/public-assets/blob/main/Login.gif)
+![Login action animation](https://github.com/andiarist/public-assets/wallaclone/Login.gif)
 
 ### Advert lists and pagination
 
-![Advert list pagination and favs](https://github.com/andiarist/public-assets/blob/main/advertsList.gif)
+![Advert list pagination and favs](https://github.com/andiarist/public-assets/wallaclone/advertsList.gif)
 
 ### Advert Detail
 
-![Advert detail and actions](https://github.com/andiarist/public-assets/blob/main/advertDetail.gif)
+![Advert detail and actions](https://github.com/andiarist/public-assets/wallaclone/advertDetail.gif)
 
 ### Emails notifications
 
-![Advert change state notification](https://github.com/andiarist/public-assets/blob/main/emailNotifScreen.PNG)
+![Advert change state notification](https://github.com/andiarist/public-assets/wallaclone/emailNotifScreen.PNG)
 
-![Advert change price notification](https://github.com/andiarist/public-assets/blob/main/changePriceScreen.PNG)
+![Advert change price notification](https://github.com/andiarist/public-assets/wallaclone/changePriceScreen.PNG)
 
 ### User Panel and Chat
 
-![User Panel and chat](https://github.com/andiarist/public-assets/blob/main/UserPanelChats.gif)
+![User Panel and chat](https://github.com/andiarist/public-assets/wallaclone/UserPanelChats.gif)
